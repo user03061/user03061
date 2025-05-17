@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-3DDC84?.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-3DDC84.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
 </div>
